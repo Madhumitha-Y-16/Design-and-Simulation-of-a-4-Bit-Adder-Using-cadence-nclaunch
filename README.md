@@ -104,7 +104,6 @@ endmodule
 <img width="1920" height="1080" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/904511d4-59e2-4453-8737-205256ad249d" />
 
 
-
 ## Results
 Successfully designed the 1-bit Full Adder and 4-bit Adder using Verilog HDL.
 Simulated the design using Cadence nclaunch and verified the output.
